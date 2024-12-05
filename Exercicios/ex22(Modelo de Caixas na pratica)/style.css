@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(34, 34, 34);
+}
+
+h1{
+    background-color: rgba(0, 255, 255, 0.764);
+    color: white;
+    /*Simplificando border:*/
+    border: 5px solid aqua;
+
+    border-width: 5px;
+    border-style: solid;
+    border-color:aqua;
+    
+    /*Simplificando padding:*/
+    padding: 5px 5px 5px 5px;
+
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+
+    /*Simplificando margin:*/
+    margin: 20px auto 40px auto;
+
+    margin-top: 20px;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-left: auto;
+
+    /*Simplificando outline:*/
+    outline: 5px dashed white;
+
+    outline-width: 5px;
+    outline-style: dashed;
+    outline-color: white;
+}
+
+p{
+    color: white;
+}
+
+a{
+    color: aqua;
+
+    border: 3px solid red;
+
+    padding: 2px;
+}
