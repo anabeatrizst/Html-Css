@@ -6,4 +6,4 @@
 
 <p><a href="https://anabeatrizst.github.io/Html-Css/Exercicios/ex09%20Desafio%205%20Capitulo%2010/">Quem eu Sou?</a></p>
 <p><a href="https://anabeatrizst.github.io/Html-Css/Exercicios/ex10%20Desafio%206%20Capitulo%2010/">Tags em HTML</a></p>
-<p><a href="https://anabeatrizst.github.io/Html-Css/Exercicios/ex25(Desafio%20Modulo%202)/pacote-projeto-d010/android.html">Curiosidades da Tecnologia</a></p>
+<p><a href="https://anabeatrizst.github.io/Html-Css/Exercicios/ex25(Desafio%20Modulo%202)/pacote-projeto-d010/android.html">Curiosidades da Tecnologia!</a></p>
